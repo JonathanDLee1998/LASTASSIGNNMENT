@@ -109,3 +109,10 @@ input[type="submit"] {
 input[type="submit"]:hover {
   background: darkslateblue;
 }
+
+#responseMessage {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  display: none;
+}
